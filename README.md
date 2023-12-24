@@ -2,6 +2,8 @@
 
 **[AVCorn](https://github.com/avcorn/avcorn)** is a small business CMS, with no database.
 
+![AVCorn Logo](https://raw.githubusercontent.com/avcorn/avcorn/main/docs/images/avcorn-logo.png "The nut doesn't fall from from the tree!")
+
 *Sponsored by the **[Web Elements Agency](http://webelements.agency)**.*
 
 ## Repositories
@@ -12,3 +14,5 @@
 ### Templates
 
 *   [Lawncare](https://github.com/avcorn/avcorn-templates-lawncare)
+
+[< Back to AVCorn Project](https://github.com/avcorn/avcorn)
